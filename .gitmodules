@@ -7,3 +7,6 @@
 [submodule "blog-preview-card-main"]
 	path = blog-preview-card-main
 	url = https://github.com/Mateus00/blog-preview-card.git
+[submodule "social-links-profile-main"]
+	path = social-links-profile-main
+	url = https://github.com/Mateus00/social-links-profile.git
